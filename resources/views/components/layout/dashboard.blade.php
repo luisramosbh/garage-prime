@@ -48,8 +48,11 @@
                 </a>
 
                 <a
-                    href="#"
-                    class="block rounded-lg px-4 py-3 text-prime-muted hover:bg-prime-carbon hover:text-prime-white">
+                    href="/perfil"
+                    class="block rounded-lg px-4 py-3 font-bold transition
+                    {{ request()->is('perfil')
+                        ? 'bg-prime-gold text-prime-black'
+                        : 'text-prime-muted hover:bg-prime-carbon hover:text-prime-white' }}">
                     Perfil
                 </a>
 
