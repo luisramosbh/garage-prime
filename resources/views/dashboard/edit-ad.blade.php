@@ -193,10 +193,9 @@
         <section class="rounded-2xl border border-prime-carbon bg-prime-graphite p-6">
             <h2 class="mb-6 text-2xl font-black">6. Descrição</h2>
 
-            <textarea
-                rows="8"
-                class="w-full rounded-lg border border-prime-carbon bg-prime-black px-4 py-3 text-prime-white placeholder:text-prime-muted focus:border-prime-gold focus:outline-none"
-            >BMW 320i M Sport 2021 em excelente estado de conservação, com manutenção em dia, interior muito bem cuidado e configuração premium.</textarea>
+            <x-form.textarea rows="8">
+            BMW 320i M Sport 2021 em excelente estado de conservação, com manutenção em dia, interior muito bem cuidado e configuração premium.
+            </x-form.textarea>
         </section>
 
         <section class="flex flex-col gap-4 md:flex-row md:justify-between">
