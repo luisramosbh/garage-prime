@@ -15,3 +15,5 @@ Route::view('/cadastro', 'site.auth.register');
 Route::view('/esqueci-senha', 'site.auth.forgot-password');
 
 Route::view('/dashboard', 'dashboard.index');
+
+Route::view('/meus-anuncios', 'dashboard.my-ads');
