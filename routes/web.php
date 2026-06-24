@@ -13,3 +13,5 @@ Route::view('/vendedor/luis-santos', 'site.seller-profile');
 Route::view('/login', 'site.auth.login');
 Route::view('/cadastro', 'site.auth.register');
 Route::view('/esqueci-senha', 'site.auth.forgot-password');
+
+Route::view('/dashboard', 'dashboard.index');
