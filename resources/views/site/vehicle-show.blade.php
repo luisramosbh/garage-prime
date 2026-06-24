@@ -75,7 +75,9 @@
                             </div>
                         </div>
 
-                        <a href="#" class="mt-5 block text-sm font-bold text-prime-gold hover:text-prime-white">
+                        <a
+                            href="/vendedor/luis-santos"
+                            class="mt-5 block text-sm font-bold text-prime-gold hover:text-prime-white">
                             Ver perfil do vendedor
                         </a>
                     </div>
