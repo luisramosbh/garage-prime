@@ -15,7 +15,7 @@
             </p>
         </div>
 
-        <x-ui.button-primary href="#">
+        <x-ui.button-primary href="/novo-anuncio">
             + Novo anúncio
         </x-ui.button-primary>
     </section>

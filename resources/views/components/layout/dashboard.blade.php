@@ -26,7 +26,7 @@
                     Meus anúncios
                 </a>
 
-                <a href="#" class="block rounded-lg px-4 py-3 text-prime-muted hover:bg-prime-carbon hover:text-prime-white">
+                <a href="/novo-anuncio" class="block rounded-lg px-4 py-3 text-prime-muted hover:bg-prime-carbon hover:text-prime-white">
                     Novo anúncio
                 </a>
 
