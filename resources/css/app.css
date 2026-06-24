@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+    --color-prime-black: #0B0B0B;
+    --color-prime-graphite: #161616;
+    --color-prime-carbon: #242424;
+    --color-prime-gold: #D4AF37;
+    --color-prime-gold-dark: #A67C00;
+    --color-prime-white: #F8F8F8;
+    --color-prime-muted: #B5B5B5;
+    --color-prime-danger: #D9534F;
+    --color-prime-success: #2ECC71;
+}
