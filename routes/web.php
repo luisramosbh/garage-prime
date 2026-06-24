@@ -17,3 +17,4 @@ Route::view('/esqueci-senha', 'site.auth.forgot-password');
 Route::view('/dashboard', 'dashboard.index');
 
 Route::view('/meus-anuncios', 'dashboard.my-ads');
+Route::view('/novo-anuncio', 'dashboard.create-ad');
