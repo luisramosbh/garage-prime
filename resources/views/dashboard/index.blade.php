@@ -83,7 +83,7 @@
                                 {{ $status }}
                             </span>
 
-                            <a href="#" class="text-sm font-bold text-prime-gold hover:text-prime-white">
+                            <a href="/editar-anuncio/1" class="text-sm font-bold text-prime-gold hover:text-prime-white">
                                 Editar
                             </a>
                         </div>
